@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/faspy/faspy/banner.png "Header")]
+[![Header](https://github.com/faspy/faspy/blob/main/banner.png "Header")]
 
 <p align="center">
   <img src="banner.png" >
