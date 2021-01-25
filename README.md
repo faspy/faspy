@@ -2,12 +2,11 @@
   <img src="banner.png" >
 </p>
 
-# Felipe Alves Santos
 <sub>*Data & Insights Manager* at Samsung Center</sub>
 
 I am data-driven problem solver with a demonstrated history of working in management consulting, mobile, technology and retail industries. Skilled in Data Science, Business Intelligence, Analytics, Strategic and Financial Planning, Process Design and Improvement, Data and Project Management. Business enthusiast always looking for opportunities to drive insights through data analysis, visualization and statistics. 
 
-**Background in:** Python, Machine Learning, Pentaho/Alteryx, Tableau, PowerBI.
+**Background in:** Python, Machine Learning, Pentaho/Alteryx, Tableau, PowerBI and some other tech things.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipealvessantos/)
@@ -15,7 +14,7 @@ I am data-driven problem solver with a demonstrated history of working in manage
 
 
 ## Projects:
-Veja os tutoriais publicados do Sigmoidal:
+<Under construction>
 
 ---
 
