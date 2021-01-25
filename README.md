@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/faspy/faspy/banner.png "Header")]
 
-<!--
-**faspy/faspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" >
+</p>
 
-Here are some ideas to get you started:
+# Felipe Alves Santos
+<sub>*Data & Insights Manager* at Samsung Center</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am data-driven problem solver with a demonstrated history of working in management consulting, mobile, technology and retail industries. Skilled in Data Science, Business Intelligence, Analytics, Strategic and Financial Planning, Process Design and Improvement, Data and Project Management. Business enthusiast always looking for opportunities to drive insights through data analysis, visualization and statistics. 
+
+**Background in:** Python, Machine Learning, Pentaho/Alteryx, Tableau, PowerBI.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/felipealvessantos/)
+* [Github](https://github.com/faspy/)
+
+
+## Projects:
+Veja os tutoriais publicados do Sigmoidal:
+
+---
+
