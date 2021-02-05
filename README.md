@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_github.png" >
 </p>
 
 <sub>*Data Analytics Manager* at Samsung</sub>
