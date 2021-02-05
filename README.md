@@ -14,6 +14,6 @@ I am data-driven problem solver with a demonstrated history of working in manage
 
 
 ## Projects:
-[Exploratory Data Analysis (EDA) on my Uber personal dataset] (https://github.com/faspy/data_science_projects/blob/gh-pages/my_uber_rides_eda.ipynb)
+[Exploratory Data Analysis (EDA) on my Uber personal dataset](https://github.com/faspy/data_science_projects/blob/gh-pages/my_uber_rides_eda.ipynb)
 
 
