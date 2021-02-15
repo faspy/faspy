@@ -10,7 +10,6 @@ I am data-driven problem solver with a demonstrated history of working in manage
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipealvessantos/)
-* [Github](https://github.com/faspy/)
 
 
 ## Projects:
