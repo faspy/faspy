@@ -10,9 +10,10 @@ I am data-driven problem solver with a demonstrated history of working in manage
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipealvessantos/)
+* [Medium](https://faspy.medium.com/)
 
 
 ## Projects:
-[Exploratory Data Analysis (EDA) on my Uber personal dataset](https://github.com/faspy/data_science_projects/blob/gh-pages/my_uber_rides_eda.ipynb)
+[Towards Data Science - Exploratory Data Analysis (EDA) on my Uber personal dataset](https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149)
 
 
